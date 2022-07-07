@@ -1,8 +1,8 @@
 <!-- Ref: https://stackoverflow.com/a/14494775/9160572 -->
 ![Header Image](https://github.com/louissxu/louissxu/blob/main/images/banner_photo.png?raw=true)
 
-### - 🤖 Passionate about Tech, building new things, and improving broken systems.
-### - 📘 Current Student at 42
+##### - 🤖 Passionate about Tech, building new things, and improving broken systems.
+##### - 📘 Current Student at 42
 
 <!--
 **louissxu/louissxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
